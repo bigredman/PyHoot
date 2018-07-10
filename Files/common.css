@@ -3,7 +3,7 @@ body {
     -webkit-animation: random 20s infinite;
     animation: random 20s infinite;
     background-color: #5A005A; /*Xereus Purple*/
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
 }
 
 span{
@@ -15,16 +15,16 @@ span{
 
 @keyframes random {
     15% {
-        background-color: #991115; /*Mephiston Red*/
+        background-color: #12c2e9; /*Mephiston Red*/
     }
     45% {
-        background-color: #00401F; /*Caliban Green*/
+        background-color: #c471ed; /*Caliban Green*/
     }
     60% {
-        background-color: #FFDA00;/*Yriel Yellow*/
+        background-color: #f64f59;/*Yriel Yellow*/
     }
     75% {
-        background-color: #0D407F; /*Macraage Blue*/
+        background-color: #FFFFFF; /*Macraage Blue*/
     }
 }
 
@@ -32,15 +32,15 @@ input {
     border-color: white;
     font-size: 2em;
     border-radius: 0.5em;
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
 }
 
 button {
-    background-color: #6B6A74; /*Warpfiend Grey*/
-    border-color:  #6B6A74; /*Warpfiend Grey*/
+    background-color: #f64f59; /*Warpfiend Grey*/
+    border-color:  #f64f59; /*Warpfiend Grey*/
     border-radius: 0.5em;
     color: White;
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
     font-size: 1.80em;
 }
 

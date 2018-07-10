@@ -1,5 +1,5 @@
 input, body, .Start_playing, .Return_home {
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
 }
 
 td {
@@ -43,7 +43,7 @@ div {
     /*Warpfiend Grey*/
     border-radius: 0.5em;
     color: White;
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
     font-size: 1.80em;
 }
 
@@ -96,11 +96,11 @@ table {
 }
 
 input, body, .Start_playing, .Return_home {
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
 }
 
 .Start_playing, .Return_home {
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
     width: 6.7em;
     padding-top: 0.5em;
 }

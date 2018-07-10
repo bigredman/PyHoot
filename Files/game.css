@@ -1,5 +1,5 @@
 button, input, body {
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
 }
 
 body {
@@ -81,6 +81,6 @@ button {
     border-color:  #6B6A74; /*Warpfiend Grey*/
     border-radius: 0.5em;
     color: White;
-    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Roboto', cursive;
     font-size: 1.80em;
 }
